@@ -2,7 +2,7 @@
 
 > my personal tmux configuration
 
-> [!INFO]
+> [!NOTE]
 > the leader key = C-Space
 
 ### Install
