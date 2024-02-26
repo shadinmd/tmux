@@ -19,8 +19,14 @@ installing [tpm](https://github.com/tmux-plugins/tpm) plugin manager
     git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 
-#### setup
+#### download dotfile
+
+dowload my dotfile for tmux
 
 ```bash
     git clone https://github.com/shadinmhd/tmux ~/.config/tmux
 ```
+
+#### install plugins
+
+after completing the above steps open a tmux session and press Control + Space then Shift + i
