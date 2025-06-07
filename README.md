@@ -24,7 +24,7 @@ installing [tpm](https://github.com/tmux-plugins/tpm) plugin manager
 dowload my dotfile for tmux
 
 ```bash
-    git clone https://github.com/shadinmhd/tmux ~/.config/tmux
+    git clone https://github.com/shadinmd/tmux ~/.config/tmux
 ```
 
 #### install plugins
